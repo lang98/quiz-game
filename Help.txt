@@ -1,0 +1,16 @@
+		   _             	 _            	      _    
+		  / /           	| |            	      \ \   
+		 / /______      	| |      	 ______\ \  
+		< <|______|            _| |_      	|______|> > 
+		 \ \                   \   /                   / /  
+		  \_\           	\_/            	      /_/   
+		 
+		 Use the above keys to control the movement of catcher.
+		 You can choose whichever subject you want.
+		 You can also use 'a' 's' 'd' instead of arrow keys, 
+		 which provide faster movements.
+		
+		 Good luck!!!                             
+
+
+

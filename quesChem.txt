@@ -1,0 +1,29 @@
+Consider the following equilibrium: H2O(g)+CO(g) <->  H2(g)+CO2(g). A closed container is initially filled with H2O and CO. As the reaction proceeds towards equilibrium the
+[CO] and [CO2] both increase
+[CO] and [CO2] both decrease
+[CO] increases and [CO2] decreases
+[CO] decreases and [CO2] increases**
+
+Consider the following equilibrium: 2SO3(g) <-> 2SO2(g)+O2(g). At equilibrium, the rate of decomposition of SO3
+Equals the rate of formation of O2
+Equals the rate of formation of  SO2**
+Is less than the rate of formation of O2
+Is less than the rate of formation of SO3
+
+Which of the following is true for all equilibrium systems?
+The mass of reactants is equal to the mass of products
+Addition of a catalyst changes the equilibrium concentrations
+The concentration of reactants is equal to the concentration of products
+The rate of the forward reaction is equal to the rate of the reverse reaction**
+
+A system at equilibrium is said to be dynamic because at equilibrium the
+Temperature does not change
+Macroscopic properties are constant
+Forward and reverse reactions continue to occur**
+Concentrations of reactants and products are constant
+
+Consider the following equilibrium:  N2O4(g)+heat <-> 2NO2(g). Initially, a 1.0 L container is filled with 2.0 mol of NO2. As the system approaches equilibrium, the rate of reaction of NO2
+Increases and [ N2O4 ] increases
+Increases and [ N2O4 ] decreases   
+Decreases and [ N2O4 ] increases**
+Decreases and [ N2O4 ] decreases

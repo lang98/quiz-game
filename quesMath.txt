@@ -1,0 +1,29 @@
+Find the derivative of 2X^3 + 2X - 3.
+4X^3 + 2 - 3
+6X^2 + 2**
+6X^3 + 2X
+4X^3 + 2X - 3
+
+What is the value of the derivative of 3X^2 + 1 at x = 3?
+8
+14
+18**
+22
+
+Find the indefinite integral of 2X + 3.
+X^2 + 3X
+X^2 + 3X + C**
+X^3 + 3 + C
+X^2 + 3X + C
+
+Find the limit as x->0 of the function f(x) = 1 / X^2.
+0
+Infinity
+Does not exist**
+1
+
+Describe the concavity of the function f(x) = x^2 - 4.
+Always concave down
+Always concave up**
+First concave down then concave up
+Cannot be determined
